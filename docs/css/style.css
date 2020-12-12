@@ -4014,13 +4014,13 @@ textarea.form-control {
     margin-bottom: 0; }
   .mega-menu .mega-item.mega-features a {
     font-family: "Archivo Narrow", sans-serif;
-    font-size: 16px;
-    font-weight: 700;
+    font-size: 18px;
+    font-weight: 1;
     line-height: 1.8em;
-    color: #1d1d1d;
-    text-transform: uppercase; }
+    color:#515356;
+    }
     .mega-menu .mega-item.mega-features a:hover {
-      color: #2AC37D; }
+      color:#b44747 ; }
   @media (max-width: 1199px) {
     .mega-menu {
       position: relative;
